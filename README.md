@@ -16,9 +16,9 @@
 ## ①ex.html
 https://jin-77.github.io/example/
 
-## ②4type_segmentation
+## ②Segmentation results for sign:traffic light:laneline:roadmarks 
 https://jin-77.github.io/Segmentation_4class/
 
-## ③6type_segmentation
+## ③Segmentation results for laneline:road:tree:buildings:pole:other
 https://jin-77.github.io/Segmentation_6class/
 
