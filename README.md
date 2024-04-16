@@ -16,4 +16,9 @@
 ## ①ex.html
 https://jin-77.github.io/example/
 
+## ②4type_segmentation
+https://jin-77.github.io/Segmentation_4class/
+
+## ③6type_segmentation
+https://jin-77.github.io/Segmentation_6class/
 
