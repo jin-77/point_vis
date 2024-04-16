@@ -12,7 +12,8 @@
 # make html for point visualization
 >python visv1.py
 
-# ex.html
+# Examples
+## ex.html
 https://jin-77.github.io/example/
 
 
