@@ -22,3 +22,9 @@ https://jin-77.github.io/Segmentation_4class/
 ## ③Segmentation results for laneline:road:tree:buildings:pole:other
 https://jin-77.github.io/Segmentation_6class/
 
+## Refarence
+このプロジェクトでは、Francis Engelmannによって開発されたPyViz3Dのコードが使用されています。詳細は以下のリンクを参照してください：
+https://github.com/francisengelmann/PyViz3D
+
+PyViz3DはMITライセンスのもとで公開されており、本プロジェクトでもそのライセンス条件に従います。ライセンスの全文は以下から確認できます：
+https://github.com/francisengelmann/PyViz3D/blob/main/LICENSE
