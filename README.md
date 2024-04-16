@@ -1,11 +1,11 @@
-①txt convert ply
+#txt convert ply
 >python plyv1.py --input example.txt --output example_shifted --shift_to_origin
 
-②make html for point visualization
+#make html for point visualization
 modify visv1.py
-# name
-# htmlname
-# label_names 
+## name
+## htmlname
+## label_names 
 
 def main():
 	name = 'sample_out' 
